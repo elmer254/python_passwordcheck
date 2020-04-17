@@ -146,6 +146,6 @@ _______________________________▀▀▀▀
 else:
         print('''
         
-        Niggaa we got a problem ...try again''')
+        Niggaa we got a problem ...try again make sure it includes numbers and letters''')
         pass
     # no match
